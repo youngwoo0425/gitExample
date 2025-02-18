@@ -1,2 +1,3 @@
-boss,ykim966,Youngwoo,Kim
+role,NetID,LastName,FirstName
+boss,ykim966,Kim,Youngwoo
 employee,jmorris28,Morris,Jonathan
